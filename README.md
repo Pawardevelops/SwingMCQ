@@ -43,10 +43,3 @@ This Java Swing application provides a sleek and user-friendly interface for use
 - `ForgotPasswordApp.java`: Class for handling password retrieval.
 - `OnlineTest.java`: Class for conducting the online quiz.
 
-## Contributing
-
-🤝 Contributions are welcome! If you find any bugs or have suggestions for improvement, please create an issue or a pull request on GitHub.
-
-## License
-
-⚖️ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
