@@ -1,0 +1,61 @@
+10
+1 ) Which one among these is not a datatype
+int
+Float
+boolean
+char
+3
+2 ) Which class is available to all classes automatically
+Swing
+Applet
+Object
+ActionEvent
+2
+3 ) Which package is directly available to our class without importing it
+swing
+applet
+net
+lang
+3
+4 ) String class is defined in which package
+lang
+Swing
+Applet
+awt
+1
+5 ) Which institute is best for Java coaching
+Utek
+Aptech
+SSS IT
+jtek
+3
+6 ) Which one among these is not a keyword
+class
+int
+get
+if
+3
+7 ) Which one among these is not a class
+Swing
+Actionperformed
+ActionEvent
+Button
+2
+8 ) Which one among these is not a function of the Object class
+toString
+finalize
+equals
+getDocumentBase
+4
+9 ) Which function is not present in the Applet class
+init
+main
+start
+destroy
+2
+10 ) Which one among these is not a valid component
+JButton
+JList
+JButtonGroup
+JTextArea
+3
